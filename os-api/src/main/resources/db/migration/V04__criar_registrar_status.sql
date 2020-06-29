@@ -1,0 +1,12 @@
+CREATE TABLE status (
+	
+	id BIGINT(20) PRIMARY KEY AUTO_INCREMENT,
+	descricao VARCHAR(20) NOT NULL
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+INSERT INTO status (descricao) VALUES ('ORÇAMENTO');
+INSERT INTO status (descricao) VALUES ('EM ANÁLISE');
+INSERT INTO status (descricao) VALUES ('APROVADO');
+INSERT INTO status (descricao) VALUES ('AGUARNDADO PEÇAS');
+INSERT INTO status (descricao) VALUES ('FINALIZADO');
+INSERT INTO status (descricao) VALUES ('CANCELADO');
