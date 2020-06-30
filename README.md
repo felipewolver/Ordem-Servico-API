@@ -2,7 +2,7 @@
 
 * [Introdução](https://github.com/wolver98/Ordem-Servico-API#ordem-de-servicos)
 * [1. Tecnologias utlizadas](https://github.com/wolver98/Ordem-Servico-API#1-tecnologias-utlizadas)
-* [2. Uso do Postman para testes](https://github.com/wolver98/Ordem-Servico-API#1-tecnologias-utlizadas)
+* [2. Uso do Postman para testes](https://github.com/wolver98/Ordem-Servico-API#2-uso-do-postman-para-testes)
 
 # Ordem de Serviços
 
@@ -16,4 +16,4 @@ Programas para criação do projeto: Spring Tool Suilt(STS), Postman para testes
 
 
 ### 2. Uso do Postman para testes
-    Nesse tópico serão apresentadas os endereços e configurações necessárias para usar o sistema no programa Postman. 
+Nesse tópico serão apresentadas os endereços e configurações necessárias para usar o sistema no programa Postman. 
