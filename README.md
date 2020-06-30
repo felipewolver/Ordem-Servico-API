@@ -1,6 +1,6 @@
 ## Índice
 
-* [Introdução](https://github.com/wolver98/Ordem-Servico-API#-ordem-de-servicos)
+* [Introdução](https://github.com/wolver98/Ordem-Servico-API#ordem-de-servicos)
 * [1. Tecnologias utlizadas](https://github.com/wolver98/Ordem-Servico-API#1-tecnologias-utilizadas)
 * [2. Uso do Postman para testes](https://github.com/wolver98/Ordem-Servico-API#2-uso-do-postman-para-testes)
 
