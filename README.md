@@ -10,10 +10,9 @@
 
 ### 1. Tecnologias utilizadas
 
- - Tecnologias utilizadas: Java com Spring Boot, JPA(Criteria API), REST, Flywaydb, Mysql, Spring Securit, JWT, Jaspersoft.
+ - Tecnologias utilizadas: Java 11, Spring Boot, JPA(Criteria API), REST, Flywaydb, Spring Securit, JWT, Jaspersoft.
 
- - Programas para criação do projeto: Spring Tool Suilt(STS), Postman para testes de requisições Http(GET, POST, PUT, DELETE).
-
+ - Programas para criação do projeto: Spring Tool Suilt(STS), Postman para testes de requisições Http(GET, POST, PUT, DELETE) e MySql para o Banco de Dados. Obs: Aconselho usar a STS 3.9.11 que é a mesma versao que eu uso para não ter problemas com configurações. 
 
 ### 2. Uso do Postman para testes
-Nesse tópico serão apresentadas os endereços e configurações necessárias para usar o sistema no programa Postman. 
+Nesse tópico serão apresentadas os endereços e configurações necessárias para usar o sistema no programa Postman.....
